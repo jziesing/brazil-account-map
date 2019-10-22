@@ -77,7 +77,7 @@ class AccountMap extends React.Component {
                         scale: 400
                       }}
                     >
-                        <ZoomableGroup center={[-60, -25]}>
+                        <ZoomableGroup center={[-60, -29]}>
                           <Geographies geography="/static/s-america.json">
                             {({ geographies }) =>
                               geographies

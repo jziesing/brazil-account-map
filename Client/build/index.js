@@ -32822,7 +32822,7 @@
 	            },
 	            _react2.default.createElement(
 	              _reactSimpleMaps.ZoomableGroup,
-	              { center: [-60, -25] },
+	              { center: [-60, -29] },
 	              _react2.default.createElement(
 	                _reactSimpleMaps.Geographies,
 	                { geography: '/static/s-america.json' },
